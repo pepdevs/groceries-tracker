@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FoodTracker.Api/FoodTracker.Api.csproj" />
+    <Project Path="src/FoodTracker.Application/FoodTracker.Application.csproj" />
+    <Project Path="src/FoodTracker.Domain/FoodTracker.Domain.csproj" />
+    <Project Path="src/FoodTracker.Infrastructure/FoodTracker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FoodTracker.Api.Tests/FoodTracker.Api.Tests.csproj" />
+    <Project Path="tests/FoodTracker.Application.Tests/FoodTracker.Application.Tests.csproj" />
+    <Project Path="tests/FoodTracker.Domain.Tests/FoodTracker.Domain.Tests.csproj" />
+    <Project Path="tests/FoodTracker.Infrastructure.Tests/FoodTracker.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
